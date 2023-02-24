@@ -1,0 +1,40 @@
+.head {
+    text-align: center;
+    color: #9e6e0040;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 650;
+    background-color: rgb(255, 255, 147);
+}
+
+.sub-head {
+    text-align: center;
+    color: chartreuse;
+    background-color: beige;
+    font-family: franklin gothic medium;
+}
+
+.para {
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Times New Roman';
+    background-color: rgb(166, 166, 146);
+}
+
+.para2 {
+    text-align: center;
+    color: yellowgreen;
+    font-family: 'Times New Roman';
+    background-color: aqua;
+}
+
+p {
+    text-align: center;
+    color: beige;
+    font-size: 40%;
+    font-weight: bolder;
+    background-color: rgba(0, 255, 255, 0.812);
+}
+
+body {
+    background-color: cyan;
+}
